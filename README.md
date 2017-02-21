@@ -13,3 +13,5 @@ Execute the file as:
 ```bash
 ./change_hostname.sh
 ```
+
+Reference: [`Change ubuntu hostname`](https://pricklytech.wordpress.com/2013/04/24/ubuntu-change-hostname-permanently-using-the-command-line/)
